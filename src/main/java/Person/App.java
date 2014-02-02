@@ -1,7 +1,7 @@
-package FacilityMgmtSystem.FMS;
+package Person;
 
 /**
- * Hello world!
+ * Zain Maqsood
  *
  */
 public class App 
